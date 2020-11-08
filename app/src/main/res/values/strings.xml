@@ -9,4 +9,7 @@
 
     <string name="greeting_first_fragment">GET OUTSIDE!</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="navigation_drawer_open">Open Naviagtion Drawer</string>
+    <string name="navigation_drawer_closed">Close Naviagtion Drawer</string>
 </resources>
